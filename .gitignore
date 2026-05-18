@@ -1,0 +1,11 @@
+node_modules/
+build/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+*.db
+.DS_Store
+.vscode/
+kytes.db
